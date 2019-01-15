@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Wilson DeLang Construction Group</title>
+<link href="css/style.css?v=1" rel="stylesheet" type="text/css" />
+<link href="css/menu.css?v=1" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="js/jquery_003.js"></script>
+</head>
+
+<body class="big-banner">
+<div class="menubar">
+  <div class="container">
+    <div class="logo"><a href="index.html"><img src="images/logo.png" width="214" height="266" alt="" border="0" /></a></div>
+    <div class="menu">
+      <nav id="top-menu">
+        <ul class="nav et_disable_top_tier sf-js-enabled">
+          <li class="current_page_item"><a href="index.html">Home</a></li>
+          <li><a class="sf-with-ul" href="the-principals.html">Company Profile<!--<span class="sf-sub-indicator"> »</span> --></a>
+            <!--<ul style="display: none; visibility: hidden;" class="children">
+              <li><a href="new-construction.html">New Construction</a></li>
+            </ul> -->
+          </li>
+          <li><a class="sf-with-ul" href="services.html">Construction Services<!--<span class="sf-sub-indicator"> »</span> --></a>
+            <!--<ul style="display: none; visibility: hidden;" class="children">
+              <li><a href="#">Project &amp; Construction Management</a></li>
+              <li><a href="#">Cost Consulting &amp; Estimating</a></li>
+            </ul> -->
+          </li>
+          <li><a href="relocation-services.html">Relocation Management</a></li>
+          <li><a href="market-sectors.html">Market Sectors</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+<div class="main-banner1"> <br>
+  <div style="height: 500px;"></div>
+  <div class="main-banner2">
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none !important;">
+      <tbody>
+        <tr>
+          <td colspan="2" style="padding: 19px; border: none !important;" valign="top"><h1 style="font-family: 'Lato', sans-serif; font-size: 38px !important; color:#0163a5; padding: 0 0 15px 0; margin:0;">Exceeding Clients Expectations</h1>
+            <p style="font-family: 'Lato', sans-serif; font-weight: 400; font-size: 16px; line-height: 17px; font-weight: normal; color: #063554; padding:0 0 15px 0; margin:0;">Long   time colleagues Stuart Wilson &amp; J.R. DeLang have founded their Firm   to combine their talents to deliver a fresh approach to your   construction requirements. Having successfully completed projects of all   sizes and levels of complexity, Stuart &amp; J.R. possess the skill   sets to offer the correct solution for your next project.</p></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="footerbg">
+  <div class="container">
+    <div class="footer1">Copyright © 2014 Wilson DeLang Construction Group <a href="careers.html">Careers</a></div>
+    <div class="footer2">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="106" align="left" valign="middle">Stay Connected </td>
+          <td align="center" valign="top"><a href="https://www.facebook.com/pages/Wilson-Delang-Construction-Group/419184948226220" target="_blank"><img src="images/facebook.jpg" width="32" height="33" alt="" border="0" /></a></td>
+          <td align="right" valign="top"><a href="http://www.linkedin.com/company/3651953?trk=tyah&amp;trkInfo=tas%3Awilson%20delang%2Cidx%3A1-1-1" target="_blank"><img src="images/link.jpg" width="32" height="33" alt="" border="0" /></a></td>
+        </tr>
+      </table>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+<script type="text/javascript" src="js/superfish.js"></script> 
+<script type="text/javascript" src="js/custom.js"></script>
+</body>
+</html>
