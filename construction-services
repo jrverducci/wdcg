@@ -1,0 +1,281 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Wilson DeLang Construction Group</title>
+<link href="css/style.css?v=1" rel="stylesheet" type="text/css" />
+<link href="css/menu.css?v=1" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="js/jquery_003.js"></script>
+
+<link rel="stylesheet" href="css/bjqs.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro|Open+Sans:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/demo.css">
+<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script src="js/bjqs-1.3.min.js"></script>
+</head>
+
+<body>
+<div class="big-banner1">
+  <div class="menubar">
+    <div class="container">
+      <div class="logo"><a href="index.html"><img src="images/logo.png" width="214" height="266" alt="" border="0" /></a></div>
+      <div class="menu">
+        <nav id="top-menu">
+          <ul class="nav et_disable_top_tier sf-js-enabled">
+            <li><a href="index.html">Home</a></li>
+            <li><a class="sf-with-ul" href="the-principals.html">Company Profile<!--<span class="sf-sub-indicator"> »</span> --></a>
+              <!--<ul style="display: none; visibility: hidden;" class="children">
+                <li><a href="new-construction.html">New Construction</a></li>
+              </ul> -->
+            </li>
+            <li class="current_page_item"><a href="services.html">Construction Services<!--<span class="sf-sub-indicator"> »</span> --></a>
+              <!--<ul style="display: none; visibility: hidden;" class="children">
+                <li><a href="#">Project &amp; Construction Management</a></li>
+                <li><a href="#">Cost Consulting &amp; Estimating</a></li>
+              </ul> -->
+            </li>
+             <li><a href="relocation-services.html">Relocation Management</a></li>
+            <li><a href="market-sectors.html">Market Sectors</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mainbody">
+  <div class="container1">
+    <div class="hedding-text1">Construction Services</div>
+    <div class="left-side">
+    	<div id="banner-fade">
+        <!-- start Basic Jquery Slider -->
+        <ul class="bjqs">
+          <li><img src="images/1.jpg" width="423" height="631" alt="" /></li>
+          <li><img src="images/2.jpg" width="423" height="631" alt="" /></li>
+          <li><img src="images/3.jpg" width="423" height="631" alt="" /></li>
+          <li><img src="images/4.jpg" width="423" height="631" alt="" /></li>
+          <li><img src="images/5.jpg" width="423" height="631" alt="" /></li>
+          <li><img src="images/6.jpg" width="423" height="631" alt="" /></li>
+          <li><img src="images/7.jpg" width="423" height="631" alt="" /></li>
+        </ul>
+        <!-- end Basic jQuery Slider -->
+      </div>
+    </div>
+    <div class="right-side">
+      <div class="text1">Wilson DeLang Construction Group will provide the correct leadership for your building project.</div>
+      <div>We provide you with everything you’ll need to launch a successful building project.   From feasibility studies to budget development, we have the expertise and experience to turn your blueprints into reality.  Our company takes the time to understand your goals and constraints so we can implement a tailor made approach that’s right for you.</div>
+      <div class="grybox">
+        <div class="text2">Services</div>
+        <div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Pre-Construction</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">Our   services can extend to meet with our clients&rsquo; needs, from entitlement   management, feasibility studies, preliminary design documents, permit   acquisition, budget development; scheduling, project bidding.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Architectural &amp; Interior Design:</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">We have long relationships with many Architects who specialize in many different disciplines and certainly can match the correct consultant for a specific project.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Residential Construction:</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">For over 25 years Stuart has been involved in custom house construction and remodels and has a great depth of resources available to produce fantastic results.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Civil Works:</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">Having begun his career in Scotland over 30 years ago with the internationally respected firm of Balfour Beatty, Stuart expanded his civil engineering experience in the Middle East &amp; here in the United States. He is currently managing a major civil project in Southern California providing leadership to the project team of Civil Engineers, Geologists, Biologists, Surveyors and Contractors.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Concrete Foundation Work:</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">For the past 4 years Stuart has led a team of experienced contractors to construct multiple cantilevered and tie-back retaining walls under extremely challenging conditions. Our experience in many kinds of bridge and building foundations of various natures are invaluable to our clients.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Security &amp; Access Control: </td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">In these trying times Safety &amp; Security are a priority in the construction of residential, commercial and Institutional projects. Our team of experts in this field have designed and implemented many systems for a variety of customers.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+          <div>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">LEED Accreditation &amp; Sustainability:</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">Certified by the Green Building Council as a LEED AP, Stuart is experienced in what it takes to get your building LEED Accredited. Our association with many Architectural firms who specialize in sustainable construction assures you that we can deliver the best value, best quality and practice at the best cost.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+<div class="footerbg">
+  <div class="container">
+    <div class="footer1">Copyright © 2014 Wilson DeLang Construction Group</div>
+    <div class="footer2">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="106" align="left" valign="middle">Stay Connected </td>
+          <td align="center" valign="top"><a href="https://www.facebook.com/pages/Wilson-Delang-Construction-Group/419184948226220" target="_blank"><img src="images/facebook.jpg" width="32" height="33" alt="" border="0" /></a></td>
+          <td align="right" valign="top"><a href="http://www.linkedin.com/company/3651953?trk=tyah&amp;trkInfo=tas%3Awilson%20delang%2Cidx%3A1-1-1" target="_blank"><img src="images/link.jpg" width="32" height="33" alt="" border="0" /></a></td>
+        </tr>
+      </table>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+
+<script class="secret-source">
+jQuery(document).ready(function($) {
+
+  $('#banner-fade').bjqs({
+	height      : 631,
+	width       : 423,
+	responsive  : true,
+	showmarkers:false
+  });
+
+});
+</script> 
+
+<script type="text/javascript" src="js/superfish.js"></script> 
+<script type="text/javascript" src="js/custom.js"></script>
+
+<!-- / main --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+<script type="text/javascript">
+		$(document).ready(function() {
+			
+			//copy
+			$('.bjqs-prev, .bjqs-next').hide();
+						
+			$('#banner-fade').hover(function() {
+			  $('.bjqs-prev, .bjqs-next').show();
+			}, function() {
+			   $('.bjqs-prev, .bjqs-next').hide();
+			});
+			//paste
+			
+			
+			//Quotes rotator
+			var divs = $('.cbp-qtcontent');
+			
+			function fade() {
+				var current = $('.current');
+				var currentIndex = divs.index(current),
+					nextIndex = currentIndex + 1;
+				
+				if (nextIndex >= divs.length) {
+					nextIndex = 0;
+				}
+				
+				var next = divs.eq(nextIndex);
+				
+				next.stop().fadeIn(1500, function() {
+					$(this).addClass('current');
+				});
+				
+				current.stop().fadeOut(1500, function() {
+					$(this).removeClass('current');
+					_startProgress()
+					setTimeout(fade, 8000);
+				});
+			}
+			
+			function _startProgress(){
+				$(".cbp-qtprogress").removeAttr('style');
+				$(".cbp-qtprogress").animate({
+					width:"537px",
+				} , 8000);
+			}
+			
+			_startProgress()
+			setTimeout(fade, 8000);
+		});
+	</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
