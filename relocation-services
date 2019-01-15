@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Wilson DeLang Construction Group</title>
+<link href="css/style.css?v=1" rel="stylesheet" type="text/css" />
+<link href="css/menu.css?v=1" rel="stylesheet" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="js/jquery_003.js"></script>
+
+<link rel="stylesheet" href="css/bjqs.css">
+<link rel="stylesheet" href="css/quotes.css">
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro|Open+Sans:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/demo.css">
+<script src="//code.jquery.com/jquery-3.0.0.min.js"></script>
+<script src="js/bjqs-1.3.min.js"></script>
+</head>
+
+<body>
+<div class="big-banner1">
+  <div class="menubar">
+    <div class="container">
+      <div class="logo"><a href="index.html"><img src="images/logo.png" width="214" height="266" alt="" border="0" /></a></div>
+      <div class="menu">
+        <nav id="top-menu">
+          <ul class="nav et_disable_top_tier sf-js-enabled">
+            <li><a href="index.html">Home</a></li>
+            <li><a class="sf-with-ul" href="the-principals.html">Company Profile<!--<span class="sf-sub-indicator"> »</span> --></a>
+              <!--<ul style="display: none; visibility: hidden;" class="children">
+                <li><a href="new-construction.html">New Construction</a></li>
+              </ul> -->
+            </li>
+            <li><a href="services.html">Construction Services<!--<span class="sf-sub-indicator"> »</span> --></a>
+              <!--<ul style="display: none; visibility: hidden;" class="children">
+                <li><a href="#">Project &amp; Construction Management</a></li>
+                <li><a href="#">Cost Consulting &amp; Estimating</a></li>
+              </ul> -->
+            </li>
+            <li class="current_page_item"><a href="relocation-services.html">Relocation Management</a>
+            </li>
+            <li><a href="market-sectors.html">Market Sectors</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="mainbody">
+  <div class="container1">
+    <div class="hedding-text1">Relocation Management</div>
+    <div class="left-side">
+    	<div id="banner-fade">
+        <!-- start Basic Jquery Slider -->
+        <ul class="bjqs">
+          <li><img src="images/Relocation1.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Relocation2.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Decommission1.1.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Decommission2.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Moving1.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Moving2.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Sustainability1.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Sustainability2.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Construction1.JPG" width="423" height="331" alt="" /></li>
+          <li><img src="images/Construction2.JPG" width="423" height="331" alt="" /></li>
+        </ul>
+        <!-- end Basic jQuery Slider -->
+      </div>
+       <div class="text5">Testimonials</div>
+        <div class="quotes">
+  <div class="quote-dots"></div>
+  <div class="quote-contain">
+    <div class="quote-rotate">
+      <p>“Katja Wendt-Dyssegard is a capable, pro-active manager, and she has been a strong asset on several of my projects.  She is well known and liked by our client, and her confident demeanor and comforting assurances during projects has earned her a high level of trust by the client and JLL.  Katja communicates early and often on the project with all stakeholders, preventing surprises and setting expectations before following through as promised.  Reliability is a key trait of hers; knowing that she will manage effectively and efficiently makes my job much easier and requires less involvement by me.  My team and I won’t hesitate to work with Katja again, and look forward to many more projects together with her.”</p>
+      <p><strong>Alex Stricker LEED AP, Vice President, Projects, JLL</strong></p>
+    </div>    
+    <div class="quote-rotate">
+       <p>“Talk about a detailed and passionate Project Manager! Katja takes great pride in her work and manages every aspect meticulously well to ensure every project runs as smooth as a German engineered car.     Her experience combined with her attention to detail provide an invaluable quality, which is to anticipate a situation before it happens. I can only recommend and endorse Katja for anyone in need of project and move management.”</p>
+      <p><strong>Kevin Stringer, VP – Chipman Relocations</strong></p>
+    </div>   
+    <div class="quote-rotate">
+      <p>“Katja is a top notch move coordinator and self-starter who excels at delivering results with a focus on quality and execution. She’s very client centric and always goes above and beyond the call. Most recently I have had the pleasure of working with Katja in her role as move coordinator on several Bank of America projects. Katja has provided Cushman & Wakefield with great quality and value for their clients by providing relocation and decommissioning services. Katja demonstrated the highest level of integrity and commitment to this project and the client. I look forward to our next project together.”</p>
+      <p><strong>Furat Alazzawi, Senior Project Manager at CBRE</strong></p>
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="right-side">
+      <div class="text1">Our team of experts at Wilson DeLang will provide your office relocation project with superior planning, experienced management and professional move services.</div>
+      <!--<div>We provide you with everything you’ll need to facilitate a successful move or relocation.  Our company takes the time to understand your specific needs and constraints so we can implement a tailor made approach that’s right for you.  We will work with you throughout the entire project, from the early stages of planning a move or relocation through the final walkthrough to ensure the entire process was completed to your satisfaction.</div>-->
+      <div class="grybox">
+        <div class="text2">Services</div>
+        <div>
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Relocation Management</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">Our staff has over 30 years of experience in relocation management. We can coordinate your company’s relocation to include budget management, a single point of contact to manage every detail, a dedicated transport team, and post move support.  In addition, we offer decommission services for both origin and destination which offers valuable time savings by working with a single trusted supplier.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+         <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Decommission Services</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">We offer a complete suite of decommissioning and commissioning services. From small office projects to complex facility projects, we will plan and execute on strategies related to asset disposition, transition plans, de-installation of assets, harvesting of hardware and software assets, migration of assets and data, as well as a completely secure chain of custody.  Our team will tailor these services to the specific client requirements. We have successfully completed the decommission of many retail banking facilities, administrative offices & campuses being held to the highest standards.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div>
+           <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Move Services</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">Our specialized network of office movers under our orchestration will offer a level of experience and attention to detail that ensures a successful, stress-free office relocation with minimal to no down time. In addition, moving servers, computer workstations and other IT components is a delicate task, our experts will offer peace of mind, safety, security and cost-effective solutions.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div> 
+           <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Sustainability</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">In order to achieve our mission to provide superior value to our clients, we must operate with an eye toward sustainability. We are focused on growth and recognize the importance of doing this in a socially responsible and sustainable way. Our team is experienced in supporting our client’s waste programs & meeting with each local jurisdiction requirements.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div> 
+          <div class="padding3">
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" class="padding2">Construction Services</td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="18" align="left" valign="top" class="padding1"><img src="images/icon1.jpg" width="10" height="11" alt="" /></td>
+                      <td align="left" valign="top" class="text3">Our construction team has been completing commercial construction projects from improving existing office spaces, remodeling existing banking centers & constructing new retail banks for many of the major financial institutions. During decommissions we are expert at re-instating the exit site to exceed landlord expectations with everything from signage removal to replacing building exteriors to match existing conditions. We are also experienced in access control & work with many of our client's security teams installing card access systems, access portal systems & security camera systems.</td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table>
+          </div> 
+        </div>
+      </div>
+    </div>
+    <div style="clear:both;"></div>
+ 
+  </div>
+</div>
+
+<div class="footerbg">
+  <div class="container">
+    <div class="footer1">Copyright © 2014 Wilson DeLang Construction Group</div>
+    <div class="footer2">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="106" align="left" valign="middle">Stay Connected </td>
+          <td align="center" valign="top"><a href="https://www.facebook.com/pages/Wilson-Delang-Construction-Group/419184948226220" target="_blank"><img src="images/facebook.jpg" width="32" height="33" alt="" border="0" /></a></td>
+          <td align="right" valign="top"><a href="http://www.linkedin.com/company/3651953?trk=tyah&amp;trkInfo=tas%3Awilson%20delang%2Cidx%3A1-1-1" target="_blank"><img src="images/link.jpg" width="32" height="33" alt="" border="0" /></a></td>
+        </tr>
+      </table>
+    </div>
+    <div style="clear:both;"></div>
+  </div>
+</div>
+
+<script class="secret-source">
+jQuery(document).ready(function($) {
+
+  $('#banner-fade').bjqs({
+	height      : 331,
+	width       : 423,
+	responsive  : true,
+	showmarkers:false
+  });
+
+});
+</script> 
+
+<script type="text/javascript" src="js/superfish.js"></script> 
+<script type="text/javascript" src="js/custom.js"></script>
+
+<!-- / main --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script> 
+<script type="text/javascript">
+		$(document).ready(function() {
+			
+			//copy
+			$('.bjqs-prev, .bjqs-next').hide();
+						
+			$('#banner-fade').hover(function() {
+			  $('.bjqs-prev, .bjqs-next').show();
+			}, function() {
+			   $('.bjqs-prev, .bjqs-next').hide();
+			});
+			//paste
+			
+			
+			//Quotes rotator
+			var spinner = {
+    index: 0,
+    auto: function(currentIndex) {
+      if (currentIndex != undefined) {
+        spinner.index = currentIndex % spinner.quotes.length;
+      } else {
+        spinner.index = (spinner.index + 1) % spinner.quotes.length;
+      }
+      spinner.quotes.removeClass("show");
+      $(spinner.quotes[spinner.index]).addClass("show");
+      spinner.dots.removeClass('dot-fill');
+      $(spinner.dots[spinner.index]).addClass('dot-fill');
+    },
+
+    initial: function(){
+      this.quotes = $(".quote-rotate");
+      this.images = $(".quote-image");
+      spinner.quotes.first().addClass("show");
+      //dots
+      for (i = 0; i < spinner.quotes.length; i++) {
+        $('.quote-dots').append('<div class="nav-dot"></div>');
+      }
+      this.dots = $(".nav-dot");
+      $(spinner.dots).first().addClass('dot-fill');
+    },
+
+    dotnav: function(){
+      $(spinner.dots).on("click", function(){
+        var currentIndex = $(spinner.dots).index(this);
+        spinner.auto(currentIndex);
+        window.clearInterval(interval);
+        interval = window.setInterval(spinner.auto, 10000);
+      });
+    }
+  }
+
+$(document).ready(function() {
+  spinner.initial();
+  spinner.dotnav();
+  interval = window.setInterval(spinner.auto, 10000);
+});
+			
+			
+		});
+	</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36251023-1']);
+  _gaq.push(['_setDomainName', 'jqueryscript.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
